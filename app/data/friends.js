@@ -1,0 +1,52 @@
+var friendsArray = [
+    {
+        name:"Owen",
+        photo:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXWBPixKtNcemI-SmWX-zppVVqXExlUqnEQfHE4NP1kWb9yaz",
+        scores:[
+			'1',
+			'5',
+			'5',
+			'1',
+			'5',
+			'5',
+			'1',
+			'1',
+			'1',
+            '5'
+            ]
+        },
+    {
+    name:"Timmy",
+    photo:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu5cL1CtcwzBCcQDljwpk5kX5sgW-nTrFmtMNp-bccL0JrLXcC",
+    scores:[
+        '2',
+        '4',
+        '1',
+        '1',
+        '1',
+        '1',
+        '1',
+        '2',
+        '1',
+        '5'
+        ]
+  },
+  {
+    name:"Angel",
+    photo:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpE2CEQ0x8w5iYURFq6EsS6yBU3BpbrOw5FovcMwr2tzl9IyBhXw",
+    scores:[
+        '4',
+        '3',
+        '5',
+        '1',
+        '1',
+        '5',
+        '5',
+        '1',
+        '1',
+        '1'
+        ]
+  }
+];
+
+module.exports = friendsArray;
